@@ -188,6 +188,10 @@ header {
         justify-content: center;
     }
 
+    .departments li span {
+        font-size: 1rem;
+    }   
+
     .hero-column {
         display: flex;
         align-items: center;
@@ -512,7 +516,7 @@ form {
 input {
     color: #2C3E50;
     font-size: 1.5rem;
-    width: 50%;
+    width: 80%;
     height: 50px;
     border: none;
     border-bottom: 1px solid #25384968;
@@ -521,7 +525,7 @@ input {
 textarea {
     color: #2C3E50;
     font-size: 1.5rem;
-    width: 50%;
+    width: 80%;
     height: 80px;
     border: none;
     border-bottom: 1px solid #25384968;
